@@ -17,7 +17,7 @@ My github contains a smattering of repos ranging from ULCA computer science assi
 
 **Technical Interests** I work with traditional sofwware engineering technologies and design patterns at my day job. I'm interested in working with more niche fields like AI and blockchain. I'm also a freelancer, so if you need help building a website, integrating LLMs, or anything else related to software engineering or web development, feel free to reach out to me! 🤝
 
-###  So What does Philosophy Have to Do with Software Engineering, Anyway? 
+### 💡 So What does Philosophy Have to Do with Software Engineering, Anyway? 
 I'm glad you asked 😅. The best way of explaining it is that philosophers attempt to specify and debug a *conceptual* system. Say someone makes an argument. Philosophers test the argumetn with input (thought experiments, scenarios, etc.) and verify the outputs the truth of the statements resulting from 'running' the argument using the inputs. Philosophers then analyze the argument, teasing out the central components, the implications, and the pitfalls of the arguemnt. 
 
 It's actually a lot like asking about the data structures, execution flows, and performance bottlenecks of an application! You're trying to 'feel out' the contours of a system. A big part of this work is developing logical fluency. This is actually how I found my way to programming and software development:  I had to learn about logical structure, syntax, variables, quantifiers, assignment, and all the rest 🧩 just to get a Masters in Philosophy!
