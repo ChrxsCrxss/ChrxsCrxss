@@ -24,5 +24,5 @@ It's actually a lot like asking about the data structures, runtime complexities,
 
 Feel free to reach out! Let's connect and create something amazing together. 😄
 
-Email: cc28@alumni.princeton.edu
-LinkedIn: [Christopher Cross](https://www.linkedin.com/in/ccross95/)
+- Email: cc28@alumni.princeton.edu
+- LinkedIn: [Christopher Cross](https://www.linkedin.com/in/ccross95/)
