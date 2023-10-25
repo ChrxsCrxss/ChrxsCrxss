@@ -1,52 +1,28 @@
-# Christopher Cross
-- Email: cc28@alumni.princeton.edu
-- LinkedIn: [LinkedIn Profile](LinkedIn link)
-- GitHub: [GitHub Profile](GitHub link)
+# Hi there! 👋 I'm Christopher Cross:  
 
-## Summary
-Mid-level software engineer experienced in event-driven design, cloud development, and CI/CD pipelines. Studied computational theory of mind at Princeton and UCLA before catching the coding bug. Skilled in languages such as Java, TypeScript, and Python. Possesses expertise in AWS infrastructure and DevOps tools, including Kafka, NodeJS, Docker, Kubernetes, Git, Maven/Gradle, and Jenkins.
+### 🌟 Summary 
+I'm a software engineer with a passion for building distributed systems. My journey started philosophy of mind at Princeton and UCLA 🎓, and now, I'm deep into the world of code! I specialize event-driven design, cloud development, and CI/CD pipelines. Whether it's Java, TypeScript, or Python, I speak the language of technology. My expertise extends to AWS infrastructure and DevOps tools like Kafka, NodeJS, Docker, and Kubernetes.
 
-## Skills
-- **Languages:** Go, Typescript, Python, Java
+🚀 **Skills**
+- **Languages:** Go, TypeScript, Python, Java
 - **Frameworks:** Angular, React, Gin, Beego, Express, Spring
-- **Infrastructure:** AWS, Kafka, NodeJS, Docker, Kubernetes
+- **Infrastructure:** AWS, Kafka, NodeJS, Docker, Kubernetes, Grafana
 - **Databases:** MongoDB, DynamoDB, Redis, SQL
 - **Dev Tools:** Linux, Git, Maven/Gradle, Jenkins
 
-## Experience
+I've worked at Chase, Amazon, and am currently @Tinder. I focus on backend development - think pipelines, APIs, and so forth. You can checkout out my [LinkedIn profile](https://www.linkedin.com/in/ccross95/) for more details
 
-### Amazon, Software Engineer (September 2022 – March 2023)
-- Implemented event-driven redesign of AWS-native data system (SQS/SNS, AWS Lambda, IAM, Athena, Step Functions), reducing data synchronization time by 90% on portals used for labor & capacity planning
-- Mapped out the removal of technical debt caused by API depreciation using AWS observability tools (Cloud Watch, Cloud Formation) to identify unaccessed API endpoints and associated resources
-- Maintained and upgraded CI/CD pipeline and infrastructure-as-code using AWS CDK (TypeScript)
+### 🌳 What You'll Find in My GitHub 
+My github contains a smattering of repos ranging from ULCA computer science assignments written in C and C++ to fully-fledged web applications combining Angular, Java, and Hibernate. My public repos are a record of my growth and evidence of my technical abilities - feel free to browse! 👀
 
-### JPMorgan Chase, Software Engineer (March 2021 – July 2022)
-- Spearheaded a team of four in the creation of an internal alert service (SpringBoot, Angular), aimed at streamlining manual workflows and coordinating deployments across teams
-- Maintained and extended a rules-based artificial intelligence platform responsible for processing ~75,000 transactions/day using Java, Maven, JUnit, and SQL
-- Optimized relational database, resulting in a 99% performance increase for SLA-critical processes and reduction of production support team workload
-- Utilized a CI/CD pipeline (Git, Bitbucket, Jenkins) to guide changes to production and ensure seamless deployments
+**Technical Interests** I work with traditional sofwware engineering technologies and design patterns at my day job. I'm interested in working with more niche fields like AI and blockchain. I'm also a freelancer, so if you need help building a website, integrating LLMs, or anything else related to software engineering or web development, feel free to reach out to me! 🤝
 
-### Data Science For All, Data Science Fellow (April 2021 – August 2021)
-- Built an ETL pipeline with APIs, BeautifulSoup, and Pandas in Python, enabling analysis of datasets (~14MB) to explore the connections between demographic variables and cryptocurrency adoption
-- Directed a team of six in a four-month project, overseeing project scoping, hypothesis refinement, data schema creation, and data sourcing, analysis, and visualization
+###  So What does Philosophy Have to Do with Software Engineering, Anyway? 
+I'm glad you asked 😅. The best way of explaining it is that philosophers attempt to specify and debug a *conceptual* system. Say someone makes an argument. Philosophers test the argumetn with input (thought experiments, scenarios, etc.) and verify the outputs the truth of the statements resulting from 'running' the argument using the inputs. Philosophers then analyze the argument, teasing out the central components, the implications, and the pitfalls of the arguemnt. 
 
-### Revature, Associate Software Engineer (November 2020 – March 2021)
-- Gained full-stack development experience (SpringBoot, Angular) and applied software engineering best practices (TDD, Agile, version control) in a rigorous training program
+It's actually a lot like asking about the data structures, runtime complexities, and performance bottlenecks of an application! You're trying to 'feel out' the contours of a system. A big part of this work is developing logical fluency. This is actually how I found my way to programming and software development:  I had to learn about logical structure, syntax, variables, quantifiers, assignment, and all the rest 🧩 just to get a Masters in Philosophy!
 
-## Education
-- **MA,** University of California, Los Angeles (UCLA), Philosophy (2020)
-- **BA,** Princeton University, Philosophy
-<!--
-**ChrxsCrxss/ChrxsCrxss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out! Let's connect and create something amazing together. 😄
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: cc28@alumni.princeton.edu
+LinkedIn: [Christopher Cross](https://www.linkedin.com/in/ccross95/)
